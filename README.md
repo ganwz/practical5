@@ -1,1 +1,1 @@
-# SCC_P5
+# Practical 5
